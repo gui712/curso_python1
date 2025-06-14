@@ -3,7 +3,7 @@
 nome = "Guilherme"
 sobrenome = "Costa"
 idade = 33
-ano_nascimento = 1992
+ano_nascimento = 1990
 maior_de_idade = idade >= 18
 altura = 1.75
 
